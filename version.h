@@ -1,0 +1,6 @@
+#define VERSION "1.443-ced8096"
+#define NUMBER_VERSION "1.443-ced8096"
+#define SYSTEM_VERSION "Linux mcp 2.6.38-rc3+ #1 SMP Thu Feb 3 19:23:12 CST 2011 x86_64 Intel(R) Xeon(TM) CPU 3.40GHz GenuineIntel GNU/Linux"
+#define BUILD_DATE "Wed Feb  9 17:12:21 CST 2011"
+#define MACHINE "x86_64"
+#define OS "Linux"
